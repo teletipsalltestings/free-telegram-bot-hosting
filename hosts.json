@@ -40,5 +40,11 @@
     "url": "https://bothost.ru/",
     "status": "working",
     "remark": "256 MB RAM, 0.25 CPU, 1 GB Storage, 1 bot in free tier."
+      },
+     {
+    "name": "Apply.build",
+    "url": "https://apply.build/",
+    "status": "working",
+    "remark": "512 MB RAM, 0.5 CPU."
       }
 ]
