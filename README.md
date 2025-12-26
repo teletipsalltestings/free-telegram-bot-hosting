@@ -14,7 +14,7 @@ Looking for free Telegram bot hosting? Here's a curated list of platforms with l
 
 ## 📊 Hosting Status Summary
 
-🟢 5 | 🟡 0 | 🔴 2 — **Total: 7**
+🟢 6 | 🟡 0 | 🔴 2 — **Total: 8**
 
 ---
 
@@ -23,6 +23,7 @@ Looking for free Telegram bot hosting? Here's a curated list of platforms with l
 | 🌐 Platform | ✅ Status | 💬 Remark |
 |------------|-----------|-----------|
 | [Alwaysdata](https://www.alwaysdata.com/) | 🟢 Working | 100 MB storage with MySQL, PostgreSQL, CouchDB, MongoDB, PHP, Python, Ruby, Node.js, Elixir, Java, Deno, custom web servers, access via FTP, WebDAV and SSH |
+| [Apply.build](https://apply.build/) | 🟢 Working | 512 MB RAM, 0.5 CPU. |
 | [Bothost](https://bothost.ru/) | 🟢 Working | 256 MB RAM, 0.25 CPU, 1 GB Storage, 1 bot in free tier. |
 | [Claw.Cloud](https://ap-southeast-1.run.claw.cloud/signin) | 🟢 Working | $5/month free credits for users with a GitHub account older than 180 days. |
 | [Lade.io](https://lade.io) | 🔴 Not Working | Free tier seems discontinued or inactive |
